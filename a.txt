@@ -3,4 +3,5 @@
 "Fra super"
 "Jens er best"
 "Common update needed by all parent projects"
-
+"New feature"
+"Yet another commonly needed update"
